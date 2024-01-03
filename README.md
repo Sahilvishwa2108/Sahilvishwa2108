@@ -1,4 +1,4 @@
-<img width="100%" src=".\Assets\bg_image.png" />
+<img width="100%" src="https://drive.google.com/file/d/1-YGxGpHv8CV1KOscEffTRBRTtAQf37f5/view?usp=sharing" />
 
 <h1 align="center">Hi, This is Sahil Vishwakarma</h1>
 
