@@ -1,4 +1,5 @@
-<img width="100%" src="https://drive.google.com/file/d/1-YGxGpHv8CV1KOscEffTRBRTtAQf37f5/view?usp=sharing" />
+<img width="100%" src="https://raw.githubusercontent.com/Sahilvishwa2108/Sahilvishwa2108/main/Assets/bg_image.png" />
+
 
 <h1 align="center">Hi, This is Sahil Vishwakarma</h1>
 
