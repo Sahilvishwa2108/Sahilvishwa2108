@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/sahilvishwa2108" target="blank"><img src="https://img.shields.io/twitter/follow/sahilvishwa2108?logo=twitter&style=for-the-badge" alt="sahilvishwa2108" /></a> </p>
 
-<div style="display:flex; flex-propagation:none; justify-content:center; align-items:center;">
+<div>
+<img style="border-radius:5%" align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <div>
+- 🔭 I’m currently working on **React + Appwrite**
 
 - 🌱 I’m currently learning **DSA, Appwrite, MERN Stack**
 
-- 🔭 I’m currently working on **React + Appwrite**
+- 👨‍💻 All of my projects are available at [sahilvishwa2108.com](sahilvishwa2108.com)
 
 - 💬 Ask me about **react, java, c++, python, javascript**
 
@@ -22,11 +24,6 @@
 
 - 📄 Know about my experiences [https://sahilvishwa2108.com](https://sahilvishwa2108.com)
 </div>
-
-<div>
-<img style="border-radius:5%;"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-</div>
-
 </div>
 <br/><br/>
 
