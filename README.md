@@ -12,11 +12,11 @@
 <img style="border-radius:5%" align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <div>
-- 🔭 I’m currently working on **React + Appwrite**
+
 
 - 🌱 I’m currently learning **DSA, Appwrite, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [sahilvishwa2108.com](sahilvishwa2108.com)
+- 🔭 I’m currently working on **React + Appwrite**
 
 - 💬 Ask me about **react, java, c++, python, javascript**
 
