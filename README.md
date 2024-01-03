@@ -1,12 +1,12 @@
 ![logo](https://github.com/Sahilvishwa2108/Sahilvishwa2108/blob/main/bg-image.png)
-<h1 align="center">Hi 👋, I'm Sahil Vishwakarma</h1>
+
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Sahil Vishwakarma</h1>
+
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnVBcmw5c001c05GX1otRG9BOUllQ2RMdklvZ3xBQ3Jtc0trczdIVjluRnFlSGl4RW5SWVBYWXE4RWNhMHpwVzRhMVJKaWttai1Rdl9VamVRMmNnTkpiMUJWbURJNEdUajJxem1WcS1ld3JXdnJJTk0zZVNyYmRoa0hTV0xPZk9xd0I3SUFyV0FzaXRMQThwVXdRNA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilvishwa2108&label=Profile%20views&color=0e75b6&style=flat" alt="sahilvishwa2108" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/sahilvishwa2108" target="blank"><img src="https://img.shields.io/twitter/follow/sahilvishwa2108?logo=twitter&style=for-the-badge" alt="sahilvishwa2108" /></a> </p>
 
@@ -24,9 +24,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://twitter.com/sahilvishwa2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilvishwa2108" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sahil-vishwakarma-2586b6229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-vishwakarma-2586b6229" height="30" width="40" /></a>
+
 <a href="https://instagram.com/sahilvishwa2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilvishwa2108" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/sahilvishwa2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilvishwa2108" height="30" width="40" /></a>
 </p>
 
