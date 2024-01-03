@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sahilvishwa2108/Sahilvishwa2108/blob/main/bg-image.png)
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Sahil Vishwakarma</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Sahil Vishwakarma
 
 <h3 align="center">A passionate Software developer from India</h3>
 
