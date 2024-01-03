@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilvishwa2108" target="blank"><img src="https://img.shields.io/twitter/follow/sahilvishwa2108?logo=twitter&style=for-the-badge" alt="sahilvishwa2108" /></a> </p>
 
-<div>
+<div style="display:flex; flex-propagation:none; justify-content:center; align-items:center;">
 
 <div>
 
