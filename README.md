@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/Sahilvishwa2108/Sahilvishwa2108/main/Assets/bg_image.png" />
+<img width="100%" src="https://www.canva.com/design/DAF3il4Tf4w/5oA9G3AeN9W3OEzfMAyxXg/edit?utm_content=DAF3il4Tf4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 
 
 <h1 align="center">Hi, This is Sahil Vishwakarma</h1>
