@@ -17,15 +17,19 @@
 <div>
   <img style="border-radius:5%" align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
   
-  <div>
-    <br/>
+<div>
 
-    - 🌱 Currently learning **DSA, Appwrite, MERN Stack**
-    - 🔭 Working on **React + Appwrite**
-    - 💬 Ask me about **React, Java, C++, Python, JavaScript**
-    - 📫 How to reach me: [sahilvishwa2108@gmail.com](mailto:sahilvishwa2108@gmail.com)
-    - 🌐 Know about my experiences at [sahilvishwa2108.com](https://sahilvishwa2108.com)
-  </div>
+
+- 🌱 I’m currently learning **DSA, Appwrite, MERN Stack**
+
+- 🔭 I’m currently working on **React + Appwrite**
+
+- 💬 Ask me about **react, java, c++, python, javascript**
+
+- 📫 How to reach me **sahilvishwa2108@gmail.com**
+
+- 📄 Know about my experiences [https://sahilvishwa2108.com](https://sahilvishwa2108.com)
+</div>
 </div>
 
 <br/>
