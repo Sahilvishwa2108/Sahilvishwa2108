@@ -15,9 +15,9 @@
 <br/>
 
 <div>
-  <img style="border-radius:5%" align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-  
-<div>
+  <img style="border-radius: 10px; border: 2px solid #333;" align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+</div>
+
 
 
 - 🌱 I’m currently learning **DSA, Appwrite, MERN Stack**
