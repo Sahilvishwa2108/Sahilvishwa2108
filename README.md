@@ -1,17 +1,20 @@
-<h1 align="center">Hi👋, This is Sahil Vishwakarma</h1>
+[![bg-image.png](https://i.postimg.cc/wxcL5D7D/bg-image.png)](https://postimg.cc/RqhW4610)
 
+<h1 align="center">Hi👋, This is Sahil Vishwakarma</h1>
 
 
 <h3 align="center">A passionate Full Stack Developer and Software Development Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilvishwa2108&label=Profile%20views&color=0e75b6&style=flat" alt="sahilvishwa2108" /> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilvishwa2108&" alt="sahilvishwa2108" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilvishwa2108&theme=dark&hide_border=true" alt="sahilvishwa2108" /></p>
+<br/>
+
 
 <div>
 <img style="border-radius:5%" align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<div>
+<div><br/>
 
 
 - 🌱 I’m currently learning **DSA, Appwrite, MERN Stack**
@@ -25,12 +28,6 @@
 - 📄 Know about my experiences [https://sahilvishwa2108.com](https://sahilvishwa2108.com)
 </div>
 </div>
-
-<br/><br/>
-<p align="center">
-<span align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilvishwa2108&show_icons=true&locale=en&layout=compact" alt="sahilvishwa2108" /></span>
-<span align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sahilvishwa2108&show_icons=true&locale=en" alt="sahilvishwa2108" /></span>
-</p>
 
 ### SKILLS :
 
@@ -70,7 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-### My Social Handles :
+### LET'S CONNECT :
 
 <div align="left">
   <a href="" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
@@ -79,4 +76,7 @@
   <a href="" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
-###
+### GITHUB STATS :
+
+![](https://github-readme-stats.vercel.app/api?username=Sahilvishwa2108&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilvishwa2108&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
