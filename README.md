@@ -5,7 +5,7 @@
 <h3 align="center">Passionate Full Stack Developer | Software Development Enthusiast</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sahilvishwa2108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://profile-counter.glitch.me/sahilvishwa2108/count.svg" alt="Profile Views" /> 
 </p>
 
 <p align="center">
@@ -99,8 +99,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilvishwa2108&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilvishwa2108&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats" />
 </p>
-
-
 
